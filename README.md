@@ -1,3 +1,3 @@
 # Portfolio
 
-https://prarthanabhandari.github.io/Pratharna/
+https://prarthanabhandari.github.io/portfolio/
